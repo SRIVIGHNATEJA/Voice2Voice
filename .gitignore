@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+.env
+
+# Logs & outputs
+evaluation_log.json
+*.wav
+*.log
+*.mp3
+*.jsonl
+
+# Model artifacts
+*.pt
+*.bin
+*.safetensors
+
+# Cache
+__pycache__/
+.cache/
+.DS_Store
